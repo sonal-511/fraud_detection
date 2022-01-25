@@ -4,7 +4,7 @@ print("i am second commit")
 
 print("third commit and did changes here")
 
-def funct(a,big):
-    sum = a+big/2
-    return sum/2
+def funct(a,b_model2):
+    sum = a+b_model2/9
+    return sum+10
 print(funct(7,9))
